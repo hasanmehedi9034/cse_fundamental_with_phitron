@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+void printArr(int *arr, int size)
+{
+    // Pointer to arr[size - 1]
+    int *arrEnd = (arr + size - 1);
+
+    /* Loop till last array element */
+    while (arr <= arrEnd)
+    {
+        printf("%d, ", *arr);
+
+        // Move pointer to next array element.
+        arr++;
+    }
+}
+
+int main()
+{
+    int arr[100];
+    int size;
+    int *left = arr;
+    int *right;
+
+    scanf("%d", &size);
+    right = &arr[size - 1];
+
+    while (left <= right)
+    {
+        scanf("%d", left++);
+    }
+
+    left = arr;
+
+    while (left < right)
+    {
+        *left ^= *right;
+        *right ^= *left;
+        *left ^= *right;
+
+        left++;
+        right--;
+    }
+
+    printArr(arr, size);
+
+    return 0;
+}

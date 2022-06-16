@@ -1,0 +1,9 @@
+1. gcc compiler
+2. escape sequence
+3. format specifier in c lang.
+4. some important links
+https://smsakib5.blogspot.com/p/basic-for-c-programming.html?m=1
+
+https://www.learningviewbd.com/c-programming-in-bangla-basic-c-program/
+
+https://www.codeshikhi.com/2019/09/basic-syntex-tutorial-in-c-programming.html?m=1

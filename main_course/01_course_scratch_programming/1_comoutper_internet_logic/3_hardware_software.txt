@@ -1,0 +1,13 @@
+--- hardware
+1. physical existing.
+
+--- operating system
+1. provide common function
+2. operating system is a connector between hardware and software.
+3. it's a middle man.
+4. operating system directly connect to hardware.
+5. it's a resource manager.
+6. multiple programes
+7. shared resource
+8. controlled allocation by os.
+9. 

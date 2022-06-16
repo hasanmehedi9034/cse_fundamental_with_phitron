@@ -1,0 +1,3 @@
+1. move sprite repeatedly from left to right with increasing size
+2. change costume with moving sprite.
+3. 

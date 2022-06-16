@@ -1,0 +1,23 @@
+--- understanding a computer
+1. computer is a machine which is like a counter. it's some take input, then process the input, and showing or giving output in order to input.
+2. storing data is part of a computer system.
+
+--- usage of a computer
+1. write a document, 
+2. browse the internent.
+3. send emails
+4. play games
+5. and many more..!
+
+--- part of a computer
+1. input
+    a. keyboard, 
+    b. mouse
+2. output
+    a. monitor,
+    b.speaker, 
+    c. printer
+3. storage
+    a. cpu->
+    b. gpu->
+4. others

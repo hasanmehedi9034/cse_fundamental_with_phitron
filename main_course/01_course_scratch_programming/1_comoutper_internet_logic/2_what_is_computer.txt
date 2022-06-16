@@ -1,0 +1,21 @@
+--- keyboard
+1. its input device of a computer.
+
+--- mouse
+1. this is another input device of a computer.
+
+-- monitor
+1. this is output device of a computer.
+
+--- printer
+1. printer is a output device of a computer.
+
+--- speaker
+1. this is output device of a computer.
+
+-- computer case
+1. cpu-> central processing unit.
+2. ram-> random access memory. that's store some value
+3. storage, it's permanent memory.
+4. pcv board, its called mother board.
+4. power supply unit.
