@@ -6,12 +6,12 @@ void input_array(int n, int a[]) {
     }
 }
 
-int make_average(int n, int a[]) {
-    int ans = 0;
+double make_average(int n, int a[]) {
+    int sum = 0;
     for (int i = 0; i < n; i++) {
-        ans = ans + a[i];
+        sum = sum + a[i];
     }
-    int avg = ans / n;
+    double avg = (double)sum / (double)n;
     return avg;
 }
 
@@ -22,5 +22,5 @@ int main() {
     int a[n];
     input_array(n, a);
 
-    printf("%d", make_average(n, a));
+    printf("%0.2lf", make_average(n, a));
 }
