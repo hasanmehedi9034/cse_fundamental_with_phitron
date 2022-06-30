@@ -1,0 +1,4 @@
+Name: Raihan, donation: 30
+Name: Mehedi, donation: 300
+Name: Ripon, donation: 200
+total donation: 530 
