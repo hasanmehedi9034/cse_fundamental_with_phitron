@@ -1,0 +1,25 @@
+24
+mehedi 1 10
+eti 2 9
+polash 3 8
+mehedi 1 20
+eti 2 100
+polash 3 10
+mehedi 1 30
+eti 2 200
+polash 3 100
+mehedi 1 20
+mehedi 1 10
+eti 2 9
+polash 3 8
+mehedi 1 20
+eti 2 100
+polash 3 10
+mehedi 1 30
+eti 2 200
+polash 3 100
+mehedi 1 20
+ifat 5 10
+ifat 5 12
+ifat 5 10
+ifat 5 1000
